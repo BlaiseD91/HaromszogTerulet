@@ -1,3 +1,12 @@
+/*
+    File: index.html
+    Author: Székely Balázs Csaba
+    Copyright: 2023, Székely Balázs Csaba
+    Group: Szoft I/1/E
+    Date: 2023-01-17
+    Github: https://github.com/BlaiseD91/
+    Licenc: GNU GPL
+*/
 const baseElement = document.querySelector("#base");
 const heightElement = document.querySelector("#height");
 const calcButton = document.querySelector("#calcButton");
