@@ -1,0 +1,16 @@
+______NodeJS build______
+
+haromszog/
+	|-dist (vagy public, build, bin)
+	    |-index.html
+	    |-app.js
+	    |-bootstrap.css
+	|-src/
+	|   |-index.html
+	|   |-app.js
+	|-.gitignore
+	|-package.json
+	|-bs-config.json
+
+
+___Deploy___
