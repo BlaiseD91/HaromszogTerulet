@@ -14,3 +14,10 @@ haromszog/
 
 
 ___Deploy___
+
+Feltöltés tárhelyszolgáltatóhoz
+
+FTP
+FileZilla
+
+NodeJS vinyl-ftp
