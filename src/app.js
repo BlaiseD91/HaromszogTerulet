@@ -10,6 +10,8 @@ calcButton.addEventListener("click", () => {
     var area = calcTriangleArea(base, height);
 
     console.log("Terület:" + area);
+
+    areaElement.value = area;
     
 });
 
