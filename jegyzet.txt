@@ -12,7 +12,7 @@ haromszog/
 	|-package.json
 	|-bs-config.json
 
-
+___Buildelés____
 ___Deploy___
 
 Feltöltés tárhelyszolgáltatóhoz
@@ -21,3 +21,9 @@ FTP
 FileZilla
 
 NodeJS vinyl-ftp
+
+
+___GIT other branches___
+git branch <új_branch> - új ág létrehozás
+git checkout <branch_név> átváltás egy másik ágra
+git merge <branch_név> - branchbe olvasztás másik ágról
